@@ -17,3 +17,7 @@ Run the following in terminal
 1. Push latest changes to repo
 2. ng build --prod --base-href "https://michielotto.github.io/angular-rock-paper-scissors/"
 3. npx angular-cli-ghpages --dir=dist/rock-paper-scissors
+
+
+## Visit the URL
+[Click Here](https://michielotto.github.io/angular-rock-paper-scissors/) to visit
